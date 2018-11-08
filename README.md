@@ -10,5 +10,4 @@
 
 ## License
 
-* [GSC](https://github.com/xrOxygen/xray-oxygen/blob/master/LICENSE-GSC.md)
-* [Apache 2.0](https://github.com/xrOxygen/xray-oxygen/blob/master/LICENSE.md)
+* [MIT](https://github.com/Giperionn/Fractal-Renderer/blob/master/LICENSE.md)
