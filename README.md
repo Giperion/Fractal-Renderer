@@ -6,7 +6,7 @@
 
 ## Downloads
 
-* Coming soon
+* [1.0](https://github.com/Giperionn/Fractal-Renderer/releases/tag/1.0)
 
 ## License
 
